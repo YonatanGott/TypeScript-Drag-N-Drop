@@ -1,7 +1,7 @@
 {
-  "name": "understanding-typescript",
+  "name": "drag-n-drop",
   "version": "1.0.0",
-  "description": "Understanding TypeScript Course Setup",
+  "description": "TypeScript Project",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
